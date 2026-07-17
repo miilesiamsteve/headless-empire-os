@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Local private overlays (if you keep private notes beside a public clone)
+private/
+*.local.md
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp

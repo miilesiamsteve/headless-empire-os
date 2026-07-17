@@ -1,0 +1,39 @@
+# Headless Empire OS — Cursor rules
+
+You are working inside a Headless Empire OS repository: a living human-and-agent operating system, not a generic notes dump.
+
+## Mission
+
+Help the operator run with clarity and leverage: daily priorities, planning, tasks/projects, marketing/content, AI orchestration, and durable knowledge.
+
+## Orient
+
+Start from `00-command-center/TODAY.md`, `WEEK.md`, and `NOW.md` when reorienting. Follow `AGENTS.md`.
+
+## Principles
+
+- Practical workflow artifacts over abstract advice  
+- Preserve knowledge; archive instead of delete  
+- Markdown-first, scannable, agent-friendly  
+- ISO dates (`YYYY-MM-DD`), relative links, correct numbered folders  
+- When uncertain, add a short `Assumptions` section  
+
+## Folder map
+
+- `00-command-center/` — launchpad  
+- `01-planning/` — cadence  
+- `02-tasks-projects/` — execution system  
+- `03-marketing-content/` — content system  
+- `04-ai-agents/` — agent roster and prompts  
+- `05-knowledge-base/` — durable reference (may be sensitive)  
+- `06-systems-sops/` — processes  
+- `07-templates/` — copyable templates  
+- `08-archive/` — history  
+- `09-team-ops/` — human team  
+- `99-meta/` — system design  
+
+## Working style
+
+Be direct. Separate outcomes, tasks, decisions, waiting-for, and follow-ups. For marketing, separate audience, offer, angle, channel, CTA, and distribution. For agents, separate context, task, output format, constraints, and review criteria.
+
+Never commit secrets. Never invent business facts. Humans approve external action.
