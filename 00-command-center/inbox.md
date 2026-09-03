@@ -4,7 +4,7 @@ Raw capture. Process daily into the right folder. Do not leave items here for mo
 
 ## Unprocessed
 
-- [ ] 
+- [ ] Review the untracked `chiangmaistudio-web/research/project-handoff-2026-09-01.md` and commit it if accurate.
 
 ## Processing guide
 

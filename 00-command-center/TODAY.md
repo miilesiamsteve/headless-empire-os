@@ -1,6 +1,6 @@
-# TODAY — YYYY-MM-DD
+# TODAY — 2026-09-01
 
-**Operator:**  
+**Operator:** Miles
 **Energy (1–10):**  
 **Theme for the day:**
 
@@ -12,9 +12,9 @@
 
 ## Top 3 outcomes (not a task dump)
 
-- [ ] 1.
-- [ ] 2.
-- [ ] 3.
+- [ ] 1. Get Mike's review of the prepared ECW follow-up.
+- [ ] 2. Ask Bloom to confirm the robotics-club room, time, supervisor, member limit, and safety rules.
+- [ ] 3. Complete the Snapchum junior-operator onboarding update.
 
 ## Schedule
 
@@ -32,7 +32,8 @@
 
 | Agent | Brief / task | Output | Due |
 |-------|--------------|--------|-----|
-| | | | |
+| Codex | Reconcile Snapchum project tasks | Completed/open inventory in the OS | 2026-09-01 |
+| Codex | Reconcile Chiang Mai Studio PowerLobster project and Git repository | Completed/open inventory in the OS | 2026-09-01 |
 
 ## Content / communication
 
@@ -48,4 +49,4 @@
 
 - Wins:
 - Carry forward:
-- **Tomorrow’s first action:**
+- **Tomorrow’s first action:** Process Janice's ECW reply if received; otherwise follow the approved follow-up plan.
