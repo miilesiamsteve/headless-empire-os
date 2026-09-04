@@ -1,7 +1,7 @@
 # Chiang Mai Studio
 
 **Status:** Active  
-**Last reconciled:** 2026-09-01  
+**Last reconciled:** 2026-09-04  
 **PowerLobster:** [changmai studio](https://powerlobster.com/projects/0864ea0c-2651-4b79-9298-5ca7086b81af)  
 **Repository:** [chiangmaistudio-web]Oh great, this is good. Can you make a survey for me to give out to the parents and children that are going to come to the opening event? It's not fully approved yet. I've sent the ideas to Joey and she's going to confirm with another teacher. And after completing the surf making, we also try to explain everything I should include on the opening event poster I'm gonna make.https://github.com/shadstoneofficial/chiangmaistudio-web)
 
@@ -18,9 +18,9 @@ and grouped into practical execution units with checklists.
 
 ## Next useful action
 
-Ask Bloom to confirm the club name, room, Tuesday 3:30–5:00 PM meeting time,
-adult supervisor, member limit, and allowed tools, batteries, chargers, and
-robot types.
+Prepare the [Bloom Robotics Open Workshop](bloom-robotics-open-workshop.md) for
+Sunday, 2026-09-13, from 1:00–3:00 PM. Add Joey's approved phone number to
+the poster, test the registration QR code, and get Bloom's final approval.
 
 ## PowerLobster execution board
 
@@ -39,7 +39,11 @@ robot types.
 
 ### Bloom Chiang Mai Robotics Club — current priority
 
-- [ ] Confirm the club name, room, time, adult supervisor, and maximum members with Bloom.
+- [x] Confirm interest in a small robotics club, the room, adult supervisor Joey, maximum of 8 students, and that outside students may join.
+- [x] Set the opening event for Saturday, 2026-09-12, from 1:00–3:00 PM.
+- [ ] Add Joey's approved phone number to the opening-event poster.
+- [ ] Get Bloom's final approval for the opening event and poster.
+- [ ] Use the opening-event survey to choose the regular club day and time.
 - [ ] Confirm which tools, batteries, chargers, and robot types Bloom permits.
 - [ ] Prepare a sign-up sheet with appropriate parent-contact handling.
 - [ ] Choose one safe demonstration project.
