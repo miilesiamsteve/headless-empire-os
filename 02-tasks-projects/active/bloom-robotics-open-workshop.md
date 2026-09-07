@@ -5,25 +5,28 @@
 
 ## Confirmed event information
 
-- **Event:** Bloom Robotics Open Workshop
+- **Club name:** MMRC Robotics Club
+- **Event:** MMRC Robotics Club opening event
 - **Date:** Sunday, 2026-09-13
 - **Time:** 11:30 AM–1:00 PM
 - **Location:** Bloom, Floor 2
 - **Audience:** Ages 10+; Bloom and outside students are welcome
 - **Capacity:** Maximum 8 students
-- **Adult supervisor and contact:** Joey, learning coach at Bloom who works with BGA
+- **Adult supervisor:** Joey, learning coach at Bloom who works with BGA
 - **Experience:** Beginners are welcome and do not need equipment
 - **Registration:** Parent or guardian registration is required for children
 - **Registration and survey:** [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSez0S03w755aLw6NiBjih69zUEFVpIDUo5_yAnuJQNjWQF_oA/viewform)
-- **Current poster draft:** [professional poster v4](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v4-1130am.png)
+- **Giveaway:** Everyone who attends receives a special giveaway.
+- **Current poster draft:** [MMRC poster v6](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v6-giveaway.png)
 
 ## Poster plan
 
 - Start with: **Want to Build a Robot?**
-- Answer with: **Come to Bloom's Robotics Open Workshop!**
-- Show **Ages 10+**, the date, time, location, and eight-place limit clearly.
+- Answer with: **MMRC Robotics Club**
+- Show **Ages 10+**, the date, time, and location clearly.
 - Include a real QR code linking to the Google Form.
-- Add Joey's phone number to the blank white contact box in Canva once Miles supplies it.
+- Do not show the eight-place limit or a phone-number field on the poster.
+- Highlight: **Everyone who attends receives a special giveaway!**
 - Keep the wording short enough for young people aged 10 and above.
 
 ## Opening-event activities
@@ -37,8 +40,6 @@
 
 ## Still needed before publishing
 
-- [ ] Add Joey's phone number to the poster.
-- [ ] Confirm that Joey approves publishing the number.
 - [ ] Confirm Bloom's exact address or add a map link if outside students may not know the location.
 - [ ] Confirm whether parents must stay during the event.
 - [ ] Confirm whether attendance is free and say so if it is.
