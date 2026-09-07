@@ -1,13 +1,13 @@
 # Bloom Robotics Open Workshop
 
 **Status:** Preparing the opening event  
-**Last updated:** 2026-09-04
+**Last updated:** 2026-09-07
 
 ## Confirmed event information
 
 - **Event:** Bloom Robotics Open Workshop
 - **Date:** Sunday, 2026-09-13
-- **Time:** 1:00–3:00 PM
+- **Time:** 11:30 AM–1:00 PM
 - **Location:** Bloom, Floor 2
 - **Audience:** Ages 10+; Bloom and outside students are welcome
 - **Capacity:** Maximum 8 students
@@ -15,7 +15,7 @@
 - **Experience:** Beginners are welcome and do not need equipment
 - **Registration:** Parent or guardian registration is required for children
 - **Registration and survey:** [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSez0S03w755aLw6NiBjih69zUEFVpIDUo5_yAnuJQNjWQF_oA/viewform)
-- **Current poster draft:** [professional poster v3](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v3-serious.png)
+- **Current poster draft:** [professional poster v4](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v4-1130am.png)
 
 ## Poster plan
 

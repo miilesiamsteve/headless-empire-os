@@ -1,4 +1,4 @@
-# Bloom Robotics Club — Opening Event Survey
+# Bloom robotices club opening event survey
 
 **Event date:** ____________________  **Room:** ____________________  
 **Adult supervisor:** Joey

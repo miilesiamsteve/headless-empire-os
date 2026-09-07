@@ -19,7 +19,7 @@ and grouped into practical execution units with checklists.
 ## Next useful action
 
 Prepare the [Bloom Robotics Open Workshop](bloom-robotics-open-workshop.md) for
-Sunday, 2026-09-13, from 1:00–3:00 PM. Add Joey's approved phone number to
+Sunday, 2026-09-13, from 11:30 AM–1:00 PM. Add Joey's approved phone number to
 the poster, test the registration QR code, and get Bloom's final approval.
 
 ## PowerLobster execution board
@@ -40,7 +40,7 @@ the poster, test the registration QR code, and get Bloom's final approval.
 ### Bloom Chiang Mai Robotics Club — current priority
 
 - [x] Confirm interest in a small robotics club, the room, adult supervisor Joey, maximum of 8 students, and that outside students may join.
-- [x] Set the opening event for Saturday, 2026-09-12, from 1:00–3:00 PM.
+- [x] Set the opening event for Sunday, 2026-09-13, from 11:30 AM–1:00 PM.
 - [ ] Add Joey's approved phone number to the opening-event poster.
 - [ ] Get Bloom's final approval for the opening event and poster.
 - [ ] Use the opening-event survey to choose the regular club day and time.
