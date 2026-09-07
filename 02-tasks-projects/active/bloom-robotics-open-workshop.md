@@ -16,6 +16,10 @@
 - **Experience:** Beginners are welcome and do not need equipment
 - **Registration:** Parent or guardian registration is required for children
 - **Registration and survey:** [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSez0S03w755aLw6NiBjih69zUEFVpIDUo5_yAnuJQNjWQF_oA/viewform)
+- **Opening-event price:** Free
+- **Regular club plan:** ฿100 per month for one meeting each week
+- **Regular meeting time:** Students and parents will vote at the opening event
+- **Website page:** `/plans/mmrc-opening-event`
 - **Giveaway:** Everyone who attends receives a special giveaway.
 - **Current poster draft:** [MMRC poster v6](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v6-giveaway.png)
 
@@ -42,7 +46,6 @@
 
 - [ ] Confirm Bloom's exact address or add a map link if outside students may not know the location.
 - [ ] Confirm whether parents must stay during the event.
-- [ ] Confirm whether attendance is free and say so if it is.
 - [ ] Test the printed QR code on at least two phones.
 - [ ] Ask Bloom to approve the final poster before sharing it publicly.
 
