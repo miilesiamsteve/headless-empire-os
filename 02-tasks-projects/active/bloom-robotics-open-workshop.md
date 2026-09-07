@@ -9,7 +9,7 @@
 - **Event:** MMRC Robotics Club opening event
 - **Date:** Sunday, 2026-09-13
 - **Time:** 11:30 AM–1:00 PM
-- **Location:** Bloom, Floor 2
+- **Location:** Bloom Space F2
 - **Audience:** Ages 10+; Bloom and outside students are welcome
 - **Capacity:** Maximum 8 students
 - **Adult supervisor:** Joey, learning coach at Bloom who works with BGA
@@ -21,7 +21,7 @@
 - **Regular meeting time:** Students and parents will vote at the opening event
 - **Website page:** `/plans/mmrc-opening-event`
 - **Giveaway:** Everyone who attends receives a special giveaway.
-- **Current poster draft:** [MMRC poster v6](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v6-giveaway.png)
+- **Current poster draft:** [MMRC poster v7](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v7-bloom-space-f2.png)
 
 ## Poster plan
 
