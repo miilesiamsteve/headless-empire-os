@@ -18,7 +18,8 @@
 - **Registration and survey:** [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSez0S03w755aLw6NiBjih69zUEFVpIDUo5_yAnuJQNjWQF_oA/viewform)
 - **Opening-event price:** Free
 - **Regular club plan:** ฿100 per month for one meeting each week
-- **Regular meeting time:** Students and parents will vote at the opening event
+- **Regular meeting time:** Every Tuesday, 3:30–5:00 PM
+- **Weekly-club poster:** [Tuesday MMRC poster](../../03-marketing-content/drafts/bloom-robotics-open-workshop/mmrc-weekly-poster-tuesday.png)
 - **Website page:** `/plans/mmrc-opening-event`
 - **Giveaway:** Everyone who attends receives a special giveaway.
 - **Current poster draft:** [MMRC poster v8](../../03-marketing-content/drafts/bloom-robotics-open-workshop/poster-v8-f-slash-2-square-qr.png)

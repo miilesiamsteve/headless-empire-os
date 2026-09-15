@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-15
+
+- Added a private Worktools planning brief with screenshot goals, the confirmed 08:30–12:30 schoolwork / 12:30–15:30 custom-project schedule, draft weekly milestones, and the next live-review checklist.
+- Verified live Worktools Sprint 2 goals and saved the Week 12 schoolwork-first chart, retaining Friday's trip and recording the saved schedule and remaining questions in the planning brief.
+
 ## 2026-09-01
 
 - Added the first live project inventory for the Snapchum / Monsnatch US Retail Launch.

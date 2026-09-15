@@ -43,6 +43,7 @@ get Bloom's final approval for the MMRC Robotics Club poster.
 - [x] Set the opening event for Sunday, 2026-09-13, from 11:30 AM–1:00 PM.
 - [x] Choose **MMRC Robotics Club** as the club name.
 - [x] Remove the capacity statement and phone-number field from the poster.
+- [x] Set the regular MMRC schedule to every Tuesday, 3:30–5:00 PM.
 - [ ] Get Bloom's final approval for the opening event and poster.
 - [ ] Use the opening-event survey to choose the regular club day and time.
 - [ ] Confirm which tools, batteries, chargers, and robot types Bloom permits.

@@ -4,6 +4,7 @@ Raw capture. Process daily into the right folder. Do not leave items here for mo
 
 ## Unprocessed
 
+- [ ] Resolve the remaining [Worktools planning details](../02-tasks-projects/active/worktools-weekly-goals.md): Sprint 2 end date, lunch/fixed classes, and whether Tuesday MMRC 15:30–17:00 applies this week. Browser access is working and Week 12 has been saved.
 - [ ] Review the untracked `chiangmaistudio-web/research/project-handoff-2026-09-01.md` and commit it if accurate.
 
 ## Processing guide
