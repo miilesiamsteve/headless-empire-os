@@ -4,6 +4,7 @@
 
 - Added a private Worktools planning brief with screenshot goals, the confirmed 08:30–12:30 schoolwork / 12:30–15:30 custom-project schedule, draft weekly milestones, and the next live-review checklist.
 - Verified live Worktools Sprint 2 goals and saved the Week 12 schoolwork-first chart, retaining Friday's trip and recording the saved schedule and remaining questions in the planning brief.
+- Corrected Week 12 to schedule each school lesson once; recorded Miles's no-duplicates rule and the Project 2 SDG 16 lesson queue.
 
 ## 2026-09-01
 
