@@ -1,10 +1,14 @@
 # Worktools — weekly and sprint goals
 
-**Updated:** 2026-09-15  
+**Updated:** 2026-09-22
 **Owner:** Miles  
 **Visibility:** Private working notes; not reviewed for public use  
-**Status:** Live weekly and sprint goals reviewed; Week 12 chart updated and save verified on 2026-09-15  
-**Worktools:** [Weekly Goals](https://worktools.site/weekly_goals/week?date=2026-09-15)
+**Status:** Week 13 chart saved and verified on 2026-09-22; Week 12 history retained below
+**Worktools:** [Weekly Goals](https://worktools.site/weekly_goals/week?date=2026-09-21)
+
+## Current week: 2026-09-21–2026-09-25
+
+See the [saved Week 13 plan and new custom-project ideas](../../01-planning/weekly/2026-09-21-worktools.md). This week, science review is the only schoolwork. Friday is reserved for hiking. Monday's trip and Tuesday's existing MMRC task were retained. The science focus is Project 1’s outstanding understanding check, reviewing food labels, diet, digestion and enzymes. The screenshot supplied on 2026-09-22 marks the preceding visible activities Done; do not assign them again. New mini-project choice remains open. The schoolwork state and lesson queue below are historical observations from 2026-09-15, not a fresh completion assessment.
 
 ## Brief
 

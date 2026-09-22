@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-22
+
+- Updated the science review blocks from Miles’s screenshot: Food Labels, Diet, Digestion and Enzymes prepare for the outstanding Project 1 understanding check; recorded visible Done statuses and locked reflection.
+
+- Saved and verified Worktools Week 13 with science review as the only schoolwork, custom-project milestones, Monday's existing trip and Friday hiking. Added a dated Markdown plan and optional new mini-project ideas; preserved Week 12 history.
+
 ## 2026-09-15
 
 - Added a private Worktools planning brief with screenshot goals, the confirmed 08:30–12:30 schoolwork / 12:30–15:30 custom-project schedule, draft weekly milestones, and the next live-review checklist.
