@@ -1,7 +1,7 @@
 # Bloom Robotics Open Workshop
 
-**Status:** Preparing the opening event  
-**Last updated:** 2026-09-07
+**Status:** MMRC club suspended by Miles on 2026-10-05; event details below retained as historical notes
+**Last updated:** 2026-10-05
 
 ## Confirmed event information
 

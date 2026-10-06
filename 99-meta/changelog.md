@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-10-05
+
+- Saved and verified Monday Early Afternoon Thai class and cleared all Late Afternoon tasks in Worktools Week 15. Recorded these as standing rules: Thai every Monday, no Late Afternoon sessions.
+
+- Recorded Miles's suspension of MMRC club and prepared online replacements for Week 15. After sign-in, checked current BGA progress and saved/verified Week 15 with English beyond Characterisation, remaining science/maths work and online afternoons; captured the saved chart.
+
+## 2026-09-24
+
+- Created and verified Worktools Week 14 (2026-09-28–2026-10-02) with 12 unique Project 2 activities across all four subjects, catch-up blocks and custom-project afternoons; saved the dated Markdown plan.
+
+- Moved the recorded BGA learning focus to Project 2, verified accessible starting lessons and prerequisite locks, and opened Introduction to SDG 16. Preserved historical progress and Friday hiking.
+
 ## 2026-09-22
 
 - Updated the science review blocks from Miles’s screenshot: Food Labels, Diet, Digestion and Enzymes prepare for the outstanding Project 1 understanding check; recorded visible Done statuses and locked reflection.

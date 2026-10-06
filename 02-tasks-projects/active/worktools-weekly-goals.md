@@ -1,10 +1,20 @@
 # Worktools — weekly and sprint goals
 
-**Updated:** 2026-09-22
+**Updated:** 2026-10-05
 **Owner:** Miles  
 **Visibility:** Private working notes; not reviewed for public use  
-**Status:** Week 13 chart saved and verified on 2026-09-22; Week 12 history retained below
-**Worktools:** [Weekly Goals](https://worktools.site/weekly_goals/week?date=2026-09-21)
+**Status:** Week 15 saved and verified on 2026-10-05; MMRC suspended; earlier weeks retained
+**Worktools:** [Weekly Goals](https://worktools.site/weekly_goals/week?date=2026-10-05)
+
+## Current change — 2026-10-05
+
+**MMRC club is suspended at Miles's request.** Exclude club work from active and future weekly goals until he resumes it. Keep old charts as history. Use online custom tasks while robotics equipment is unavailable (latest equipment update: 2026-10-01). The [2026-10-05 plan](../../01-planning/weekly/2026-10-05-worktools.md) is saved and verified. Current BGA progress was checked: English through Characterisation is done; the plan starts with the next check and avoids completed lessons.
+
+**Recurring timetable correction:** Every Monday Early Afternoon is Thai class. Leave all Late Afternoon blocks empty on every day. Applied and verified in Week 15; use these rules for future weekly plans.
+
+## Current learning focus — updated 2026-09-24
+
+Miles requested moving on to **Year 8 Project 2: Peace, Justice and Strong Institutions (SDG 16)**. See the [Project 2 starting lessons and sequence](bga-project-2.md). BGA access and four available starting lessons were verified. First lesson: **2.1 Introduction to SDG 16**. Project 1 completion has not been inferred from this change. Miles confirmed starting in Worktools next week, 2026-09-28. The [Week 14 plan](../../01-planning/weekly/2026-09-28-worktools.md) is saved with Project 2 mornings and custom-project afternoons; Friday 2026-09-25 hiking remains reserved in Week 13.
 
 ## Current week: 2026-09-21–2026-09-25
 
@@ -22,11 +32,13 @@ Organize Weekly Goals and Sprint Goals into a realistic schoolwork-first schedul
 - The usual day runs from **08:30 to 15:30**.
 - **08:30–12:30: schoolwork first.**
 - **12:30–15:30: custom projects and activities.**
-- Custom areas: Bob the robot, taekwondo, and MMRC club.
+- **Every Monday Early Afternoon: Thai class.**
+- **No Late Afternoon sessions on any day.** Leave those Worktools cells empty; fit afternoon activities into Early Afternoon and Afternoon only.
+- Custom areas include Bob the robot, Strike Out, blog work and taekwondo. MMRC club is suspended until Miles resumes it.
 - Lunch and short breaks must fit inside the day; exact times are not confirmed.
 - Review Worktools when Miles asks. No recurring automation has been requested or created.
 
-## Current schoolwork — screenshots and live goals
+## Historical schoolwork — observed 2026-09-15
 
 **Project:** Year 8 – Project 1: Migration 2025–26  
 **Current lesson:** Let's Practise – 1.1 Integers  
@@ -162,9 +174,9 @@ Before this edit, Tuesday Early Morning held “Build a cool robot / take apart 
 | Time | Focus | Suggested method |
 |---|---|---|
 | 08:30–12:30 | Schoolwork | Start with the current unfinished lesson; take short breaks; advance through the sequence once, with no repeat lesson assignments. |
-| 12:30–15:30 | Custom projects | Include lunch; pick one main project outcome for the afternoon. Reserve the last 15 minutes for progress notes and tomorrow's first action. |
+| 12:30–15:30 | Custom projects | Include lunch; use Early Afternoon and Afternoon only. Every Monday Early Afternoon is Thai class. Leave Late Afternoon empty. |
 
-Do not treat either block as uninterrupted work. Fixed lessons, lunch, and activity times still need to be checked.
+Do not treat either block as uninterrupted work. Monday Early Afternoon is confirmed for Thai class every week; exact clock times and lunch duration remain unconfirmed.
 
 ## Review status and next checks
 
@@ -172,7 +184,7 @@ Do not treat either block as uninterrupted work. Fixed lessons, lunch, and activ
 - [x] Read existing Weekly Goals for the week containing 2026-09-15.
 - [x] Read Sprint Goals and reconcile their contents with the screenshots.
 - [ ] Confirm the actual Sprint 2 end date; the reviewed page does not display it.
-- [ ] Confirm lunch, fixed lessons, and whether Tuesday MMRC runs 15:30–17:00 this week.
+- [ ] Confirm lunch and any other fixed lessons. Monday Early Afternoon Thai is confirmed weekly; MMRC is suspended.
 - [ ] Ask Miles for actual progress when reviewing the next day; no completion inferred from scheduled rows.
 - [x] Revise weekly rows using the confirmed morning/afternoon split.
 - [x] Verify saved rows by reading them back.

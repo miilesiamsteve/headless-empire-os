@@ -7,6 +7,8 @@
 
 ## Operating summary
 
+**Update 2026-10-05:** Miles has suspended MMRC club. Club tasks and launch priorities below are historical and on hold until he resumes them. Robotics design and other online projects may continue; do not schedule club work.
+
 Chiang Mai Studio is Miles's robotics, club, website, and maker-community
 workspace. The main focus is launching the Bloom Chiang Mai Robotics Club. The
 first CMRG 2026 competition robot milestone is complete, and the robot now has a
